@@ -1,0 +1,28 @@
+{
+  "name": "livescores",
+  "version": "1.0.0",
+  "description": "Live premier league table",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HasanM99/LiveScores.git"
+  },
+  "author": "Hasan Mahmoud",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HasanM99/LiveScores/issues"
+  },
+  "homepage": "https://github.com/HasanM99/LiveScores#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "config": "^3.3.7",
+    "express": "^4.18.1",
+    "express-validator": "^6.14.2",
+    "google-search-results-nodejs": "^2.1.0",
+    "request": "^2.88.2"
+  }
+  
+}
